@@ -15,4 +15,7 @@ You can just click on the [html file](https://github.com/sjacksonhodum/offline-d
 download python from the [python website](https://www.python.org/)
 then you can launch the python program. if on mac use these commands shown in the video. Then you have offline desmos!
 
-![gif](https://github.com/user-attachments/assets/e9e55a92-6582-4d45-ad9d-cbce9a87df15)
+
+
+https://github.com/user-attachments/assets/5e326c08-d67d-4672-bfee-92a454a110a2
+
